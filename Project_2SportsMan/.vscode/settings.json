@@ -1,0 +1,7 @@
+{
+            "python.pythonPath": "C:\\Users\\KIRAN\\anaconda3\\python.exe",
+            "python.formatting.provider": "yapf",
+            "git.ignoreLimitWarning": true,
+            "python.condaPath": "C:\\Users\\KIRAN\\anaconda3\\Scripts"
+            // "python.condaPath": "C:\\Users\\KIRAN\\anaconda3\\envs"
+}
